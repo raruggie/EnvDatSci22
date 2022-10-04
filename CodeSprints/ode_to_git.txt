@@ -3,18 +3,53 @@ you may confuse me now,
 but later you will make me less confused,
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3b687e620a611f9ad5058b127239a7aaaeddc232
 thanks for keeping track
  
-=======
 Who knows why we do the things we do.
 
+<<<<<<< HEAD
 =======
+=======
+Who knows why we are doing this?
+I'm sure it's for the greater good.
+Not just to pass this course,
+Or get through graduate school.
+
+Meow.
+
+Who knows why we do the things we do.
+
+because I don't worry about what confuses me,
+and you confuse me now.
+
+because I'll take a course,
+named Data Science God!
+
+and perhaps more and more amused
+
+fork and clone seems harder,
+but after some panic it is easy to understand,
+my projects will be in order thanks to git.
+Thank you git!
+
+1. Hi, This is Beibei.
+2. How are you, world today?
+
+>>>>>>> 3b687e620a611f9ad5058b127239a7aaaeddc232
 Who knows why we do the things we do.
 
 You keep my data safe,
 even when it's just cat memes
 
+hi
+my name is chris
 
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 3b687e620a611f9ad5058b127239a7aaaeddc232
