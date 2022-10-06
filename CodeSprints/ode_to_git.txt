@@ -4,6 +4,7 @@ but later you will make me less confused,
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 3b687e620a611f9ad5058b127239a7aaaeddc232
@@ -14,6 +15,45 @@ Who knows why we do the things we do.
 <<<<<<< HEAD
 =======
 =======
+=======
+or, alternatively,
+I will still be very confused;
+only a semester's time will tell.
+I really hope that maybe someday
+I will be able to understand computer logic.
+
+Who knows why we do the things we do.
+
+python you are so complex
+ I am perplexed
+python you are so complex,
+ I am perplexed
+Python you are so complex,
+I am perplexed
+
+I hope that day is soon,
+lets be friends
+
+why must you make my life so hard by not letting me copy and paste
+your commands do not make sense to me
+I wish you were R
+
+Microsoft bought GitHub, and the world is not ok
+BRING BACK ATOM YOU COWARDS!!!!!!!!!!!!!!!!!!
+
+I wish that you would show me how,
+So you could then be used.
+
+Who knows why we do the things we do.
+
+I strive to learn your tricks,
+however now it just gives me the icks,
+I know I will continue to learn,
+but currently it feels like heart burn
+
+thanks for keeping track
+
+>>>>>>> upstream/master
 Who knows why we are doing this?
 I'm sure it's for the greater good.
 Not just to pass this course,
@@ -47,9 +87,12 @@ even when it's just cat memes
 
 hi
 my name is chris
+<<<<<<< HEAD
 
 
 <<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> 3b687e620a611f9ad5058b127239a7aaaeddc232
+=======
+>>>>>>> upstream/master
